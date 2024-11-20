@@ -1,7 +1,9 @@
 ##INTRODUCTION
 This project explores the titanic dataset to uncover insights about the passengers, survival rates, and other interesting patterns using an excel dashboard.
+
 ##PROJECT OVERVIEW
 This project involves cleaning and analyzing the titanic dataset using microsoft excel to create a comprehensive dashboard . The dashboard provides visual insights into the data,such as the descriptive analysis, correlation matrix,age distribution and survival rates by differnet categories. The goal is to provide a clear and interactive way to explore the data and derive meaningful conclusions.
+
 ##DATA MODELS
 The dataset used includes the following Key variables:
 PassengerId: Unique ID for each passenger. 
@@ -22,6 +24,7 @@ Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 2.Pivot Tables: For analyzing data and creating slicers.
 3.Excel formulas and functions: To perform descriptive statistics and data manipulation
 4.Excel Charts: To create visualizations such as barcharts, Histogram, LineCharts.
+
 ##DASHBOARD FEATURES
 The Excel dashboard includes the following features:
 1. Interactive Filters: Filters to select specific categories like passenger class, gender, and survival status.
